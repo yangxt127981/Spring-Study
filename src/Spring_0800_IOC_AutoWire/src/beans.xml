@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd"
+          >
+
+  
+  <bean name="userDAO2" class="com.bjsxt.dao.impl.UserDAOImpl">
+  	<property name="daoId" value="2"></property>
+  </bean>
+	<!-- autowire by name 
+  <bean id="userService" class="com.bjsxt.service.UserService" scope="prototype" autowire="byName">
+  </bean>-->
+  	<!-- autowire by type -->
+  <bean id="userService" class="com.bjsxt.service.UserService" scope="prototype" autowire="byType">
+  </bean>
+
+</beans>

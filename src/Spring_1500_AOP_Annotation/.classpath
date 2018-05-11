@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/External Lib/jdom-1.1.3/jdom/build/jdom-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/External Lib/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring3.2.9"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/common-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/freemarker-2.3.13.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/ognl-2.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/slf4j-nop-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/struts2-core-2.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/struts2-spring-plugin-2.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Work/技术文档/JAVA/马士兵/Spring/尚学堂马士兵_Spring_00_项目源码/res/s2sh_jar/xwork-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/External Lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
