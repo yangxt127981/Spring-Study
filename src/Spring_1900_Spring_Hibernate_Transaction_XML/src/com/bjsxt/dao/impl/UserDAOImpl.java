@@ -1,7 +1,5 @@
 package com.bjsxt.dao.impl;
 
-import java.sql.SQLException;
-
 import javax.annotation.Resource;
 
 import org.hibernate.Session;
@@ -9,7 +7,6 @@ import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Component;
 
 import com.bjsxt.dao.UserDAO;
-import com.bjsxt.model.User;
 
 @Component("u") 
 public class UserDAOImpl implements UserDAO {

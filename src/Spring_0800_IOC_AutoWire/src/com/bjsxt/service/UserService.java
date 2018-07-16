@@ -1,7 +1,7 @@
 package com.bjsxt.service;
+
 import com.bjsxt.dao.UserDAO;
 import com.bjsxt.model.User;
-
 
 
 public class UserService {

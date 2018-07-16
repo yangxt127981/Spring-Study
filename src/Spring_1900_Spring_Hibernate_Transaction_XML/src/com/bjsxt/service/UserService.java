@@ -2,13 +2,10 @@ package com.bjsxt.service;
 import javax.annotation.Resource;
 
 import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Propagation;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.bjsxt.dao.LogDAO;
 import com.bjsxt.dao.UserDAO;
 import com.bjsxt.model.Log;
-import com.bjsxt.model.User;
 
 
 @Component("userService")
